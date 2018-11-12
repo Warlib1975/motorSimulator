@@ -1,0 +1,11 @@
+C:\Work\Programming\iot_edge_engine_simulator\modules\iot_edge_engine_simulator\obj\Debug\netcoreapp2.1\iot_edge_engine_simulator.csproj.CoreCompileInputs.cache
+C:\Work\Programming\iot_edge_engine_simulator\modules\iot_edge_engine_simulator\obj\Debug\netcoreapp2.1\iot_edge_engine_simulator.AssemblyInfoInputs.cache
+C:\Work\Programming\iot_edge_engine_simulator\modules\iot_edge_engine_simulator\obj\Debug\netcoreapp2.1\iot_edge_engine_simulator.AssemblyInfo.cs
+C:\Work\Programming\iot_edge_engine_simulator\modules\iot_edge_engine_simulator\bin\Debug\netcoreapp2.1\iot_edge_engine_simulator.deps.json
+C:\Work\Programming\iot_edge_engine_simulator\modules\iot_edge_engine_simulator\bin\Debug\netcoreapp2.1\iot_edge_engine_simulator.runtimeconfig.json
+C:\Work\Programming\iot_edge_engine_simulator\modules\iot_edge_engine_simulator\bin\Debug\netcoreapp2.1\iot_edge_engine_simulator.runtimeconfig.dev.json
+C:\Work\Programming\iot_edge_engine_simulator\modules\iot_edge_engine_simulator\bin\Debug\netcoreapp2.1\iot_edge_engine_simulator.dll
+C:\Work\Programming\iot_edge_engine_simulator\modules\iot_edge_engine_simulator\bin\Debug\netcoreapp2.1\iot_edge_engine_simulator.pdb
+C:\Work\Programming\iot_edge_engine_simulator\modules\iot_edge_engine_simulator\obj\Debug\netcoreapp2.1\iot_edge_engine_simulator.dll
+C:\Work\Programming\iot_edge_engine_simulator\modules\iot_edge_engine_simulator\obj\Debug\netcoreapp2.1\iot_edge_engine_simulator.pdb
+C:\Work\Programming\iot_edge_engine_simulator\modules\iot_edge_engine_simulator\obj\Debug\netcoreapp2.1\iot_edge_engine_simulator.csprojAssemblyReference.cache

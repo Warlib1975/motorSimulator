@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Work\\Programming\\iot_edge_engine_simulator\\modules\\iot_edge_engine_simulator\\iot_edge_engine_simulator.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

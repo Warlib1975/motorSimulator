@@ -1,0 +1,20 @@
+# Copyright (c) Microsoft Corporation. All rights reserved.
+# Licensed under the MIT License.
+
+image: <registry>/iot-edge-engine-simulator:<version>
+manifests:
+  -
+    image: <registry>/iot-edge-engine-simulator:<version>-linux-amd64
+    platform:
+      architecture: amd64
+      os: linux
+  -
+    image: <registry>/iot-edge-engine-simulator:<version>-linux-arm32v7
+    platform:
+      architecture: arm
+      os: linux
+  -
+    image: <registry>/iot-edge-engine-simulator:<version>-windows-amd64
+    platform:
+      architecture: amd64
+      os: windows
