@@ -60,5 +60,11 @@
         }
       }
     }
+    "iot_edge_engine_simulator": {
+       "properties.desired": {
+      	 "SendData": true,
+      	 "SendInterval": 7
+      }
+    }
   }
 }
