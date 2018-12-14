@@ -1,4 +1,4 @@
-# Electrical Motor Simulator
+# Electrical Motor Simulator IoT Edge module
 Microsoft Azure IoT Edge/Hub module for simulation an electric motor telemetry. 
 Simulates parameters: current, voltage, torque, frequency, power, speed, energy, ambient temperature and humidity. 
 It's based on Microsoft Azure IoT Edge simulated temperature sensor C# sources. 
